@@ -14,7 +14,8 @@ The table below summarizes all the scripts in this repository. Status indicates 
 | **Pull All Windows** | 1.0 | Move all windows from a secundary display into the main one.| 13 |
 | **Push All Windows** | 1.0 | Move all windows to a secundary display from the main one.| 13 |
 | **PP2PNG** | 1.0 | Copy a selected image in Microsoft PowerPoint and paste it to Preview, opening "Save As...".| 26 |
-
+| **rawFormat** | 1.0 | Copy the raw code sorce of a message selected in Mail and paste it into TextEdit.| 26 |
+| **Unsubscribe** | 1.0 | Copy destination address and open the unsubscribe page (if any) in Safari.| 26 |
 
 ## Legal
 
