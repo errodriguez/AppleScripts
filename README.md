@@ -5,7 +5,7 @@ A collection of handcrafted and useful AppleScripts for every occasion.
 
 ## List of scripts
 
-The table below summarizes all the scripts in this repository. Status indicates with which macOS version has been tested (a 0 should indicates a script in development). Check comments in every script for further instructions.
+This repo holds both copiled and text versions of each script. The table below summarizes all the scripts in this repository. Status indicates with which macOS version has been tested (a 0 should indicates a script in development). Check comments in every script for further instructions.
 
 
 | Script | Version | Description | Status | 
