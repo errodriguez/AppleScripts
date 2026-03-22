@@ -1,8 +1,17 @@
 (* *****************************************************************************
 
-  rawFormat.scpt v1.0.0
+  rawFormat.scpt v1.0.1
 
-  Copy the raw code from a selected item in Mail.app and paste it into TextEdit.
+  Copy the raw code from a selected item in Mail.app and paste it into TextEdit. This script will
+ gives you the raw RFC/MIME message, not the already-decoded body that Mail renders
+ for you.
+  
+ You will see the usually quoted-printable encoding with patterns like:
+  
+  =3D means the character =
+  =0A means line feed
+  =0D means carriage return  
+  =20 means space
   
   © Dr. Eduardo René Rodríguez Ávila, March 2026
 
