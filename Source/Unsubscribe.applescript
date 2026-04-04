@@ -1,6 +1,6 @@
 (* *****************************************************************************
 
-  Unsubscribe.scpt v1.1.1
+  Unsubscribe.scpt v1.1.2
 
   Copy the email destination address from an email, and look for a link to unsubscribe. If a link is
  found, open Safari with it. If necessary, the email is in the clipboard, ready to
@@ -8,6 +8,16 @@
   
   © Dr. Eduardo René Rodríguez Ávila, March 2026
 
+
+Some known issues still to be addressed: 
+
+- With some e-mail accounts or services (at this time, being only aware of Yahoo!), two or more
+  email addresses or mailboxes can be linked, and this is detected as two or more emails selected,
+ despite there is only one selected in the Mail app.
+ 
+- The script doesn't recognise selected items in smart mailboxes.
+
+- Some emails use images entirely; you can see text, but they are just images.
 ***************************************************************************** *)
 
 use AppleScript version "2.7"
