@@ -1,10 +1,10 @@
 (* *****************************************************************************
 
-  Unsubscribe.scpt v1.1.0
+  Unsubscribe.scpt v1.1.1
 
   Copy the email destination address from an email, and look for a link to unsubscribe. If a link is
- found, open Safari with it. If necessary, the email is in the clipboard ready to
- past it. 
+ found, open Safari with it. If necessary, the email is in the clipboard, ready to
+ paste. 
   
   © Dr. Eduardo René Rodríguez Ávila, March 2026
 
